@@ -1,0 +1,6 @@
+L.D F1, 1
+FADD F3, F1, F1
+S.D F3, 8
+SUBI R2, R2, 1
+BNEZ R2, 0
+ADDI R2, R2, 5
