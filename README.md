@@ -41,8 +41,3 @@ This Tomasulo Algorithm Simulator is a Java-based tool designed to simulate the 
 - Expand simulator support for additional MIPS instructions.
 - Implement advanced optimization techniques.
 - Collect and consider user feedback for GUI improvements and overall user experience.
-
-## Contributors
-
-- [Mayar Sherif]
-
